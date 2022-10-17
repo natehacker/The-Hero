@@ -23,4 +23,7 @@ selection options
 // wireframe link
 https://wireframe.cc/Lkx1NK 
 
-
+sources of information
+https://youtu.be/uRWmEjxY334
+https://www.w3schools.com
+https://www.youtube.com/watch?v=mfk8Rk2eUJY
