@@ -27,3 +27,6 @@ sources of information
 https://youtu.be/uRWmEjxY334
 https://www.w3schools.com
 https://www.youtube.com/watch?v=mfk8Rk2eUJY
+
+game deploy link 
+https://cynical-statement.surge.sh/
