@@ -1,0 +1,18 @@
+body {
+    background-image: url("https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-6/312150946_3248855472040271_8260753728811412041_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_ohc=YVrZtoN3mQ0AX9n0tVh&_nc_ht=scontent-atl3-2.xx&oh=00_AT_olczRQA_g72xgg3A_9SZRLUuHYIpvVGVMufYJLwRoNw&oe=6357C97D"); 
+    touch-action: manipulation;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    border:2px solid #1c1a1a;
+    background-size: cover;
+    border-radius: 15px
+    
+}
+h1{
+    text-align: center;
+    color: #100f0f;
+}
