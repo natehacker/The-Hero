@@ -29,6 +29,4 @@ https://www.w3schools.com
 https://www.youtube.com/watch?v=mfk8Rk2eUJY
 
 game deploy link 
-
-
-spooky-door.surge.sh
+http://spooky-door.surge.sh/
