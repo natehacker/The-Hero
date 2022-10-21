@@ -29,4 +29,4 @@ https://www.w3schools.com
 https://www.youtube.com/watch?v=mfk8Rk2eUJY
 
 game deploy link 
-https://cynical-statement.surge.sh/
+spooky-door.surge.sh
